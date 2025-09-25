@@ -22,7 +22,7 @@ public class BirthMonth {
             }
         } else {
             trash = in.nextLine();
-            System.out.println("Invalid month input: " + trash);
+            System.out.println("Invalid month input: " + trash); //Invalid
             System.out.println("Exiting... Run the program again");
             System.exit(0);
 
